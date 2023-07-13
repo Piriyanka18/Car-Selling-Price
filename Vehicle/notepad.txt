@@ -1,0 +1,5 @@
+This is machine learinig model on flask.It is predicts the selling price of car.The data set is taken from Kaggle.
+
+conda create -n carprediction python=3.7
+activate carprediction
+d:
